@@ -1,6 +1,6 @@
 ---
 title: '[프로그래머스] 여행 경로 '
-date: 2021-11-30 17:11:65
+date: 2021-11-30 17:11:45
 category: algorithm
 thumbnail: { thumbnailSrc }
 draft: false
