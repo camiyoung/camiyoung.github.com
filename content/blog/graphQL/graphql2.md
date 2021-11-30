@@ -3,6 +3,7 @@ date: 2021-11-29 20:23:13
 category: 'graphQL'
 draft: false
 title: '[GraphQL] GraphQL 과 RestAPI'
+emoji: 📈
 ---
 
 이 글은 Graph QL 공식 사이트의 'GraphQL is the better REST' 를 번역한 글입니다.

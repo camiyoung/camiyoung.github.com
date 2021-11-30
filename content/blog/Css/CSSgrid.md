@@ -3,6 +3,7 @@ date: 2021-5-23 15:13:13
 category: css
 draft: false
 title: '언제 CSS grid를 사용할까?'
+emoji: 👩🏻‍🎨
 ---
 
 # When to use Flexbox and when to use CSS grid

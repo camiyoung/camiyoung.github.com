@@ -3,6 +3,7 @@ date: 2021-11-6 16:23:13
 category: 'algorithm'
 draft: false
 title: '[프로그래머스] 시저 암호'
+emoji: 🎰
 ---
 
 Level 1 시저 암호 문제.

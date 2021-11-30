@@ -4,6 +4,7 @@ date: 2021-11-30 17:11:65
 category: algorithm
 thumbnail: { thumbnailSrc }
 draft: false
+emoji: ✈️
 ---
 
 DFS/BFS 문제.

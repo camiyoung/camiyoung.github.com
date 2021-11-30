@@ -3,6 +3,7 @@ date: 2021-11-28 22:23:13
 category: 'graphQL'
 draft: false
 title: '[GraphQL] Introduction'
+emoji: 📈
 ---
 
 이 글은 Graph QL 공식 사이트의 'Basics Toutorial -Introduction' 를 개인적으로 번역한 글입니다.
