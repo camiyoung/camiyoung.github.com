@@ -50,6 +50,9 @@ body.light {
     p {
       color: $middle-gray;
     }
+    span {
+      color: $middle-gray;
+    }
     &:hover {
       text-shadow: $light-hover-text-shadow;
     }
