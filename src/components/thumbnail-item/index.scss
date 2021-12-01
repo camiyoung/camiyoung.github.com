@@ -35,21 +35,20 @@
   }
 
   @media screen and (max-width: 450px) {
-    .excerpt {
-      position: relative;
-    }
-    .emoji-box {
-      position: relative;
-      width: 20%;
-
-      top: 20%;
-      left: -50%;
-      z-index: -1;
-    }
-
     h3 > span {
       display: block;
       margin: 0;
+    }
+    p {
+      width: 97%;
+    }
+    .emoji-box {
+      width: 3%;
+      background: $thumbnail-gradient;
+      padding: 2px;
+    }
+    .emoji {
+      display: none;
     }
   }
 }
