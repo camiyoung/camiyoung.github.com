@@ -2,7 +2,7 @@
 date: 2021-11-22 16:22:13
 category: 'algorithm'
 draft: false
-title: '[프로그래머스] 위장'
+title: '[프로그래머스] 위장 c++'
 emoji: 👕
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '[백준] 1759 암호 만들기'
+title: '[백준] 1759 암호 만들기 c++'
 date: 2021-12-1 09:30:33
 category: 'algorithm'
 thumbnail: { thumbnailSrc }

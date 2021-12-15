@@ -2,7 +2,7 @@
 date: 2021-11-15 16:23:13
 category: 'algorithm'
 draft: false
-title: '[프로그래머스] 멀쩡한 사각형, 124 나라의 숫자 '
+title: '[프로그래머스] 멀쩡한 사각형, 124 나라의 숫자 c++'
 emoji: 📅
 ---
 

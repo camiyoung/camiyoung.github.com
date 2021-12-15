@@ -1,5 +1,5 @@
 ---
-title: '[백준] 1987 알파벳'
+title: '[백준] 1987 알파벳 c++'
 date: 2021-12-1 13:30:33
 category: 'algorithm'
 thumbnail: { thumbnailSrc }

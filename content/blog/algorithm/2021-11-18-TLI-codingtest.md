@@ -2,7 +2,7 @@
 date: 2021-11-17 16:23:13
 category: 'algorithm'
 draft: false
-title: '[프로그래머스] 괄호 변환'
+title: '[프로그래머스] 괄호 변환 c++'
 emoji: ↔️
 ---
 

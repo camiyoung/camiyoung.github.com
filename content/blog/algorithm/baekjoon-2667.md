@@ -1,5 +1,5 @@
 ---
-title: '[백준] 2667 단지번호 붙이기'
+title: '[백준] 2667 단지번호 붙이기 c++'
 date: 2021-12-1 10:50:33
 category: 'algorithm'
 thumbnail: { thumbnailSrc }
