@@ -1,10 +1,10 @@
 ---
-title: '[프로그래머스] 디스크 컨트롤러 '
+title: '[프로그래머스] 디스크 컨트롤러 c++'
 date: 2021-12-13 18:49:22
 category: algorithm
 thumbnail: { thumbnailSrc }
 draft: false
-emoji: 🕹
+emoji: 💾
 ---
 
 ## 디스크 컨트롤러
