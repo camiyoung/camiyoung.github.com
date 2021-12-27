@@ -96,7 +96,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://camiyoung.netlify.app',
+        host: 'https://camiyoung.netlify.app/',
         sitemap: 'https://camiyoung.netlify.app/sitemap.xml',
         policy: [
           {
