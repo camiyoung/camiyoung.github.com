@@ -2,7 +2,7 @@ module.exports = {
   title: `Camilla Young`,
   description: `공부한 내용을 기록하는 블로그 입니다.`,
   author: `Camilla`,
-  introduction: `공부한 내용을 기록하는 블로그 입니다.`,
+  introduction: `안지영, Camilla`,
   siteUrl: `https://camiyoung.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -16,7 +16,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: '', // Your repository for archive comment
+    utterances: 'camiyoung/camiyoung.github.com', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
